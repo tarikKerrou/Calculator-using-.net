@@ -1,0 +1,11 @@
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\bin\Debug\calculatrice.exe.config
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\bin\Debug\calculatrice.exe
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\bin\Debug\calculatrice.pdb
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\obj\Debug\calculatrice.csproj.AssemblyReference.cache
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\obj\Debug\calculatrice.csproj.SuggestedBindingRedirects.cache
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\obj\Debug\calculatrice.TarikCalculatrice.resources
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\obj\Debug\calculatrice.Properties.Resources.resources
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\obj\Debug\calculatrice.csproj.GenerateResource.cache
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\obj\Debug\calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\obj\Debug\calculatrice.exe
+C:\Users\FUJISTU\source\repos\calculatrice\calculatrice\obj\Debug\calculatrice.pdb
